@@ -25,6 +25,5 @@ I built this lab as part of CodePath’s CYB102 cybersecurity course to gain han
 ### Snort Rule Triggered! Blocking HTTPS Traffic to Google:
 <img src="https://github.com/user-attachments/assets/8b4c56bc-5f44-421c-b3f4-298622008f84" width="600"/>
 
-
 ## Lessons Learned
 Throughout this lab, I developed a deeper understanding of how IDS like Snort operate in real-time environments. I became comfortable writing and testing custom Snort rules, modifying its configuration files, and interpreting alerts triggered by simulated attacks. Setting up pytbull-ng helped me visualize what malicious traffic looks like and how an IDS detects it. Additionally, I improved my command-line proficiency, especially with tools like Vim and Docker, and gained practical experience managing network configurations and monitoring traffic on a virtual machine.
