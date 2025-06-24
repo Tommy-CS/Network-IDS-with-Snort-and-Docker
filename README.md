@@ -18,8 +18,10 @@ I built this lab as part of CodePath’s CYB102 cybersecurity course to gain han
 ## Screenshots
 ### Generating attacks with pytbull-ng:
 <img src="https://github.com/user-attachments/assets/19f559f4-7676-4a23-afa3-345e69fdce27" width="600"/>
+
 ###  Snort Detection Mode Triggered by ICMP Ping:
 <img src="https://github.com/user-attachments/assets/0e98b4fc-4ecf-45b9-9d16-eea6089fc92c" width="600"/>
+
 ### Snort Rule Triggered! Blocking HTTPS Traffic to Google:
 <img src="https://github.com/user-attachments/assets/8b4c56bc-5f44-421c-b3f4-298622008f84" width="600"/>
 
