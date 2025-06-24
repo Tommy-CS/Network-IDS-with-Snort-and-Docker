@@ -19,7 +19,6 @@ I built this lab as part of CodePath’s CYB102 cybersecurity course to gain han
 ### Generating attacks with pytbull-ng:
 <img src="https://github.com/user-attachments/assets/63ea800b-7715-49a8-9f84-1729ab283244" width="600"/>
 
-
 ###  Snort Detection Mode Triggered by ICMP Ping:
 <img src="https://github.com/user-attachments/assets/0e98b4fc-4ecf-45b9-9d16-eea6089fc92c" width="600"/>
 
